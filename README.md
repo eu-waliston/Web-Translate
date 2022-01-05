@@ -1,3 +1,43 @@
+<h1> Tradutor Web </h1>
+
+<p> Projeto feito com REACT </p> 
+
+<p> Logo abaixo tem as instruções de como rodar o mesmo </p> 
+
+
+![Screenshot from 2022-01-05 19-45-48](https://user-images.githubusercontent.com/82295321/148302425-b004a6a2-2a6e-45db-8ae1-b1e16526daa9.png)
+
+
+https://user-images.githubusercontent.com/82295321/148302562-6539b57d-9df7-4ece-8c9b-eaab9e6c8f5e.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
